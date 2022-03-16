@@ -1,0 +1,134 @@
+[
+    {
+        "title": "I Girasoli",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "72",
+            "heigth": "91"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmS4AeEMritQvNgBDB6rkygBioCZHHqCT9muTT4qPpnTed",
+        "URI": "https://ipfs.io/ipfs/QmNvMuNGzSAVoLZaG87rbKmKSNiNUrrZ2b9fwNkceatttW"
+    },
+    {
+        "title": "Il caffè di notte",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "89",
+            "heigth": "70"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/Qma8FEdzriZCYf4yei89vgJXXRyNjvfT5Np65k9gebVuun",
+        "URI": "https://ipfs.io/ipfs/QmVHN2mYuAeBwhBT77BQA8GU82LLAkS7LvZR8qVBdY3hy2"
+    },
+    {
+        "title": "Iris",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "93",
+            "heigth": "71"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmR18kpKZtbKW7K2n7PF5EpKmQLLdYR2x6LoCudmUdJvPh",
+        "URI": "https://ipfs.io/ipfs/QmNsvGLoKdc6fp4VvXtB6V5MC7wJ8moByNUzNm2skXQSSE"
+    },
+    {
+        "title": "La camera di Vincent ad Arles",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "90",
+            "heigth": "72"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmPBA3Rh1yaubvGpb4VqQ9anoDVB245zio1qJoDoTFV1Sr",
+        "URI": "https://ipfs.io/ipfs/QmT4ofCwvtLBDf9mroZ1V9hswoo6fX9MPR4fx4evsoPpAo"
+    },
+    {
+        "title": "La casa gialla",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "94",
+            "heigth": "76"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/Qmd6X4ezSuJ4g2Uascs616zgXzkfQGpW2fwbvAsxiDjU5D",
+        "URI": "https://ipfs.io/ipfs/Qmahabxsa6FZKVFXcUB4usE2PiP18CH1vu8peNbBdx7TPt"
+    },
+    {
+        "title": "Notte stellata",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "92",
+            "heigth": "74"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmY8R4uf2Ket2yJ1xrrNbu3WSafjmbC9wzJfLV6mwxrW5u",
+        "URI": "https://ipfs.io/ipfs/QmTfLwBHrYJujYs8SVk31jS5aZwRtwFeCdU7TeFov8mULY"
+    },
+    {
+        "title": "Autoritratto",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "54",
+            "heigth": "65"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmbaV19F9RTMca7fDkvoVfdpCK3hLSVdaNVnHev2xHbP17",
+        "URI": "https://ipfs.io/ipfs/QmWNfN7i8xSgz5SjpS37j1niXZqcQw1wTthjYXfs5JpiWx"
+    },
+    {
+        "title": "Autoritratto con orecchio bendato",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "49",
+            "heigth": "60"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmWa32E4rLXdFqAZV52kSZFzB2e8XgKsqKYiHH2eqb2EY2",
+        "URI": "https://ipfs.io/ipfs/QmTGoXmbia2iRZ85ctE74vYsXsCUaWFLKKJY5vGrvRuncF"
+    },
+    {
+        "title": "Campo di grano con volo di corvi",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "100,5",
+            "heigth": "50,3"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmPQ9ye2MYbmiftnUaYxoMVqZyFoo8vpkrnwPjjzc8Pq21",
+        "URI": "https://ipfs.io/ipfs/QmQAo55MsuwpcQPZ6doo1wpyv6zJMXC2tny2K5p3fhykHU"
+    },
+    {
+        "title": "I mangiatori di patate",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "114",
+            "heigth": "82"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmS2k3MQGe6XEVtcFHJe9pSZ8DoG6Kqymq5C7dXXBFXAEb",
+        "URI": "https://ipfs.io/ipfs/QmVzbKYaE4w4RggmHqXW4Xq29EzfUjUxbpT9KuHxMv5VH9"
+    },
+    {
+        "title": "Ramo di mandorlo fiorito",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "92",
+            "heigth": "73,5"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmRLno5AQ9LyURStV1tJxhpD785c1BXTJJcEkZatDQQAkW",
+        "URI": "https://ipfs.io/ipfs/QmaNUmNXYar1Zz3RMDfpkwguNH3bjTNazyjuQCovKSftZF"
+    },
+    {
+        "title": "Terrazza del caffè la sera",
+        "author": "Vincent van Gogh",
+        "measures": {
+            "width": "65,5",
+            "heigth": "81"
+        },
+        "type": "olio su tela",
+        "image": "https://ipfs.io/ipfs/QmViqz7bywuemU2WK7etU7SmG8RNzEGbPeFam5fhcqD2Rk",
+        "URI": "https://ipfs.io/ipfs/QmNseYbedP3AZYdTP1mPE75ME5gqi2iesSiXD8WmzrLUor"
+    }
+ ]
